@@ -1,6 +1,31 @@
 {
 	"data": {
-		"name": "jimmy",
-		"age": 135
+		"people" :
+		[
+			{
+				"name": "jimmy",
+				"age": 135
+			},
+			{
+				"name": "timmy",
+				"age": 13
+			},
+			{
+				"name": "cindy",
+				"age": 15
+			},
+			{
+				"name": "judy",
+				"age": 25
+			},
+			{
+				"name": "marry",
+				"age": 64
+			},
+			{
+				"name": "tommy",
+				"age": 109
+			}
+		]
 	}
 }
